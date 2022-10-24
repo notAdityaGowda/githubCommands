@@ -45,5 +45,23 @@ git clone URL => to make local copy of your fork
 //always create a new branch[which inturn can be used to create new pull request] for each features
 
 
+/* after making some commits,  you decided to go back 1 or more commits. 
+then make new commits. 
+
+now the online version will be few commits ahead of the offline version .
+
+eg: 
+online version          offline version
+A                              A
+B                              B
+C                              c[*deleated*]    
+D							 d[*deleated*]
+							 E[*new commit which is not present in online version]
+
+now to push this E onto online version we should use force push..
+*/
+
+git push origin <brachName> -f
+
 
 
