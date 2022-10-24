@@ -40,9 +40,7 @@ git branch -d branchName => to delete branch with given branch name locally
 
 git push origin -d branchName => to delte the branch with given branch name in gitHub
 
-
-
-
+git clone URL => to make local copy of your fork
 
 
 
