@@ -30,7 +30,7 @@ git branch newBranchName => to create new branch
 git checkout BranchName => to switch to given "branchName"
 
 ---git checkout branchA 
----git merge branchB      => to merge branchB with branchA
+---git merge branchB      => to add changes in branch B to branch A
 
 git push origin master => to push changes in master branch
 
