@@ -2,11 +2,19 @@ git init
 
 git status 
 
-git add [file] or  git add .  => for staging
+git add [file] or  git add .    => for staging
 
-git reset [file]              => for unstaging
+git reset [file] or git reset . => for unstaging
 
 git commit -m "descriptive message"
+
+git log 
+
+git reset e7cac5f7f744947b00a7343915c2155ac8629ced  => to reset to particular version
+
+
+
+
 
 
 
