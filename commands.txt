@@ -42,7 +42,7 @@ git push origin -d branchName => to delte the branch with given branch name in g
 
 git clone URL => to make local copy of your fork
 
-// I am enjoying learning github
+//always create a new branch[which inturn can be used to create new pull request] for each features
 
 
 
