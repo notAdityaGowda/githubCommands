@@ -61,7 +61,7 @@ D							 d[*deleated*]
 now to push this E onto online version we should use force push..
 */
 
-git push origin <brachName> -f
+git push origin <brachName> -f => forced push
 
 
 
