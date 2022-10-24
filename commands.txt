@@ -44,7 +44,6 @@ git clone URL => to make local copy of your fork
 
 //always create a new branch[which inturn can be used to create new pull request] for each features
 
-#changes made by aditya
 
 
 
