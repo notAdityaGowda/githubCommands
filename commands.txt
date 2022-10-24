@@ -30,7 +30,7 @@ git branch newBranchName => to create new branch
 git checkout BranchName => to switch to given "branchName"
 
 ---git checkout branchA 
----git merge branchB      => to merge branchB with branchA
+---git merge branchB      => to add changes in branch B to branch A
 
 git push origin master => to push changes in master branch
 
@@ -43,6 +43,8 @@ git push origin -d branchName => to delte the branch with given branch name in g
 git clone URL => to make local copy of your fork
 
 //always create a new branch[which inturn can be used to create new pull request] for each features
+
+#changes made by aditya
 
 
 
