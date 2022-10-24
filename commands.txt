@@ -19,7 +19,7 @@ git stash pop => to bring back staged changes
 
 git stash clean => to remove all the changes in backstage 
 
-git remote add origin URL => link to github
+git remote add origin URL => link to a URL and name it as origin
 
 git remote -v => to view the URL linked
 
