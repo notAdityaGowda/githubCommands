@@ -55,8 +55,8 @@ online version          offline version
 A                              A
 B                              B
 C                              c[*deleated*]    
-D		       d[*deleated*]
-		       E[*new commit which is not present in online version]
+D		               d[*deleated*]
+		               E[*new commit which is not present in online version]
 
 now to push this E onto online version we should use force push..
 */
