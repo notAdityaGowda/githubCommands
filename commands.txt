@@ -21,7 +21,28 @@ git stash clean => to remove all the changes in backstage
 
 git remote add origin URL => link to github
 
-git push origin master => to push changes to master branch
+git remote -v => to view the URL linked
+
+git branch => check all availible branches
+
+git branch newBranchName => to create new branch 
+
+git checkout BranchName => to switch to given "branchName"
+
+---git checkout branchA 
+---git merge branchB      => to merge branchB with branchA
+
+git push origin master => to push changes in master branch
+
+git push origin branchB => to push changes in branchB 
+
+
+
+
+
+
+
+
 
 
 
